@@ -22,14 +22,14 @@
         }
         ?>
         <form method="POST">
-            <p>Welk dier zou je nooit als huisdier willen hebben? </p><input type="text" name="vraag1" required value="<?php echo($useranswer[0]) ?>"><span style="color: red;"> *</span><br/>
-            <p>Wie is de belangrijkste persoon in je leven? </p><input type="text" name="vraag2" required value="<?php echo($useranswer[1]) ?>"><span style="color: red;"> *</span><br/>
-            <p>In welk land zou je graag willen wonen? </p><input type="text" name="vraag3" required value="<?php echo($useranswer[2]) ?>"><span style="color: red;"> *</span><br/>
-            <p>Wat doe je als je je verveelt? </p><input type="text" name="vraag4" required value="<?php echo($useranswer[3]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Welk dier zou je nooit als huisdier willen hebben? </p><input type="text" name="vraag1" value="<?php echo($useranswer[0]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Wie is de belangrijkste persoon in je leven? </p><input type="text" name="vraag2" value="<?php echo($useranswer[1]) ?>"><span style="color: red;"> *</span><br/>
+            <p>In welk land zou je graag willen wonen? </p><input type="text" name="vraag3" value="<?php echo($useranswer[2]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Wat doe je als je je verveelt? </p><input type="text" name="vraag4" value="<?php echo($useranswer[3]) ?>"><span style="color: red;"> *</span><br/>
             <p>Met welk speelgoed speelde je vroeger het meest? </p><input type="text" name="vraag5" value="<?php echo($useranswer[4]) ?>"><span style="color: red;"> *</span><br/>
-            <p>Bij welke docent spijbel je het liefst? </p><input type="text" name="vraag6" required value="<?php echo($useranswer[5]) ?>"><span style="color: red;"> *</span><br/>
-            <p>Als je €100.000,- had, Wat zou je dan kopen? </p><input type="text" name="vraag7" required value="<?php echo($useranswer[6]) ?>"><span style="color: red;"> *</span><br/>
-            <p>Wat is je favoriete bezigheid? </p><input type="text" name="vraag8" required value="<?php echo($useranswer[7]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Bij welke docent spijbel je het liefst? </p><input type="text" name="vraag6" value="<?php echo($useranswer[5]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Als je €100.000,- had, Wat zou je dan kopen? </p><input type="text" name="vraag7" value="<?php echo($useranswer[6]) ?>"><span style="color: red;"> *</span><br/>
+            <p>Wat is je favoriete bezigheid? </p><input type="text" name="vraag8" value="<?php echo($useranswer[7]) ?>"><span style="color: red;"> *</span><br/>
             <input id="enter" type="submit">
         </form>
     </div>
@@ -62,8 +62,6 @@ Maar Sire, daar kunt u toch uw $useranswer[6] voor gebruiken.
 $useranswer[1], je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had. $useranswer[3], Sire.</p>");
             }
         }
-
-
         ?>
     </div>
     <?php

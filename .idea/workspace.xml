@@ -10,11 +10,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 2 PHP/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3 PHP/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3 PHP/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3 PHP/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3 PHP/gallery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="83" lean-forward="true" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3 PHP/website.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -24,10 +60,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addattachment</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,35 +77,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week 1 PHP/Lab 1/index.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Lab 3/index.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Lab 4/index.php" />
-        <option value="C:/xampp/htdocs/JS/dialogues.js" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Lab 1/header.css" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/Header.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/header.css" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/header/header.css" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/header/Header.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/menu.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/footer/footer.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/menu/menu.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/extra.css" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/index.css" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/index.php" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Extra 1/index.js" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.js" />
-        <option value="$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.css" />
-        <option value="C:/xampp/htdocs/Weekopdracht/index.php" />
-        <option value="C:/xampp/htdocs/Weekopdracht/index.css" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/paniek.php" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/footer.php" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/result.php" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/index.js" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/headermenu.php" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/index.css" />
-        <option value="$PROJECT_DIR$/Week 2 PHP/onkunde.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/header/header.html" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/header/header.css" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/menu/menu.css" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/footer/footer.css" />
+        <option value="$PROJECT_DIR$/toets 15-4-2019/robot-arm.js" />
+        <option value="$PROJECT_DIR$/toets 15-4-2019/toets-lvl-2.html" />
+        <option value="$PROJECT_DIR$/toets 15-4-2019/toets-lvl-1.html" />
+        <option value="$PROJECT_DIR$/toets 15-5-2019/index.html" />
+        <option value="$PROJECT_DIR$/toets 15-5-2019/index.css" />
+        <option value="$PROJECT_DIR$/toets 15-5-2019/stemwijzer.js" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/update.html" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/index.html" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/css/styles.css" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/remove.php" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/delete.php" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/create.php" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/update.php" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/success.php" />
+        <option value="$PROJECT_DIR$/toets boekenclub/toets_boekenclub/index.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/footer/footer.html" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/addgame.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/new.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/addgamesuccess.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/deleteconfirm.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/deletegamepage.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/addgamepage.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/create.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/delete.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/update.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/update/updateinfo.php" />
         <option value="$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.php" />
         <option value="$PROJECT_DIR$/Week 2 PHP/index.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/delete/deletegamepage.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/delete/deleteconfirm.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/create/addgamepage.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/update/updatesuccess.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/create/create.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/update/update.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/delete/delete.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/menu/menu.html" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/create/addgamesuccess.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/index.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/footer/footer.php" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/website.css" />
+        <option value="$PROJECT_DIR$/Week 4 PHP/index.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/header/header.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/menu/menu.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/website.css" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/gallery.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/about.php" />
+        <option value="$PROJECT_DIR$/Week 3 PHP/contact.php" />
       </list>
     </option>
   </component>
@@ -89,7 +153,7 @@
             <path>
               <item name="Blok 3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Blok 3" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2 PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 3 PHP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,15 +163,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blok 2" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jan\Documents\troep\ICT School\ICT Projecten\Blok 3\Week 4 PHP\update" />
+      <recent name="C:\Users\jan\Documents\troep\ICT School\ICT Projecten\Blok 3\Week 4 PHP\delete" />
+      <recent name="C:\Users\jan\Documents\troep\ICT School\ICT Projecten\Blok 3\Week 4 PHP\create" />
       <recent name="C:\Users\jan\Documents\troep\ICT School\ICT Projecten\Blok 3\Week 1 PHP\Extra 1\menu" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -149,32 +218,70 @@
       <workItem from="1552379618332" duration="10083000" />
       <workItem from="1552465877523" duration="3357000" />
       <workItem from="1552475054820" duration="6030000" />
-      <workItem from="1552899326034" duration="1378000" />
+      <workItem from="1552899326034" duration="8505000" />
+      <workItem from="1552983233063" duration="5979000" />
+      <workItem from="1553069355752" duration="3709000" />
+      <workItem from="1553370892104" duration="50000" />
+      <workItem from="1553503390351" duration="946000" />
+      <workItem from="1554118367659" duration="5056000" />
+      <workItem from="1554200726209" duration="736000" />
+      <workItem from="1554708146860" duration="7972000" />
+      <workItem from="1554795405827" duration="7895000" />
+      <workItem from="1554882610177" duration="6726000" />
+      <workItem from="1554983334697" duration="157000" />
+      <workItem from="1555312074644" duration="14892000" />
+      <workItem from="1555398422198" duration="13406000" />
+      <workItem from="1555486228744" duration="5013000" />
+      <workItem from="1557129445366" duration="4957000" />
+      <workItem from="1557220316228" duration="10193000" />
+      <workItem from="1557731727961" duration="17045000" />
+      <workItem from="1557751581664" duration="140000" />
+      <workItem from="1557818259783" duration="5609000" />
+      <workItem from="1557914486518" duration="533000" />
+      <workItem from="1558337732672" duration="16438000" />
+      <workItem from="1558431536205" duration="8809000" />
+      <workItem from="1558941829834" duration="15561000" />
+      <workItem from="1559034200038" duration="5418000" />
+      <workItem from="1559116747521" duration="5363000" />
+      <workItem from="1559546799341" duration="8403000" />
+      <workItem from="1559634029135" duration="4577000" />
+      <workItem from="1559728053583" duration="719000" />
+      <workItem from="1560239955151" duration="7999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62766000" />
+    <option name="totallyTimeSpent" value="254194000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28624734" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17377399" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -184,84 +291,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/Week 2 PHP/result.php</url>
-          <line>40</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/afternoon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/evening.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/night.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://C:/xampp/htdocs/JS/dialogues.js" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Lab 1/header.css" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/Header.php" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/header.css" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/header/header.css" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/header/Header.php">
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/dialogues.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
+        <state relative-caret-position="-612" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/footer/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#185#191#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/menu/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/extra.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/index.js" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/morning.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://C:/xampp/htdocs/Weekopdracht/index.php" />
-    <entry file="file://C:/xampp/htdocs/Weekopdracht/index.css" />
-    <entry file="file://C:/xampp/htdocs/index.php" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Lab 1/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2 PHP/paniek.php" />
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Lab 4/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Blok 2/battle system/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 1 PHP/Lab 3/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -270,45 +307,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.css">
+    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Lab 1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/index.css">
+    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="1037">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.js">
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/ranks.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/levels.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="-4624">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2 PHP/result.php">
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/enemies.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Week 1 - Adventure game/JS/inventory.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blok 2/Extra/01_buttons/buttons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="510">
+          <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+    <entry file="file://$PROJECT_DIR$/toets 15-5-2019/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2 PHP/index.js">
+    <entry file="file://$PROJECT_DIR$/toets 15-5-2019/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets 15-5-2019/stemwijzer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -326,24 +382,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Extra 1/index.php">
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/my_html_file_written_with_php.html" />
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="91" column="19" lean-forward="true" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2 PHP/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -354,19 +397,224 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Blok 2/toets/praktijktoets-stemwijzer/js/stemwijzer.js">
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/games (1).sql" />
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-125">
+          <caret line="6" column="108" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/success.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="70" column="150" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/remove.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toets boekenclub/toets_boekenclub/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/update/updateinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="66" column="86" selection-start-line="66" selection-start-column="86" selection-end-line="66" selection-end-column="86" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h1#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/delete/deleteconfirm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/delete/deletegamepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/update/updatesuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/delete/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/update/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="39" column="141" lean-forward="true" selection-start-line="39" selection-start-column="141" selection-end-line="39" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/uploaded_files/facepalm-head.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/uploaded_files/unknown.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/phpmailer/src/PHPMailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50473">
+          <caret line="2986" column="39" selection-start-line="2986" selection-start-column="39" selection-end-line="2986" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/create/addgamepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h1#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/create/addgamesuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/create/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1 PHP/Weekopdracht/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2 PHP/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/website.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/header/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/footer/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/menu/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 2 PHP/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="544">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 PHP/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="83" lean-forward="true" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/website.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 PHP/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
         </state>
       </provider>
     </entry>

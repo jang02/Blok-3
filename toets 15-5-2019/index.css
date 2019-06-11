@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+}
+#container {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+#header {
+    text-align: center;
+    background-color: greenyellow;
+}
+#header > h1 {
+    padding: 20px 0px;
+    margin: 0px;
+}
+#footer {
+    text-align: center;
+    background-color: darkcyan;
+}
+#footer > p {
+    padding: 15px 0px;
+    margin: 0px;
+}
+#stemwijzer, #result {
+    background-color: white;
+}
+

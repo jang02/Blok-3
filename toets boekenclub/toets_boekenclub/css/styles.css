@@ -1,0 +1,10 @@
+td{
+	padding-right:20px;
+}
+
+table, form{
+	margin-bottom:20px
+}
+.hidden {
+	display: none;
+}
