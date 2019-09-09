@@ -66,3 +66,41 @@ html, body {
     margin: 0;
     background-color: #777777;
 }
+.grid {
+    display: grid;
+    grid-template-areas:
+            'wie pfp'
+            'skills pfp';
+    justify-content: center;
+}
+.grid2 {
+    display: grid;
+    grid-template-areas:
+            'wat karakter';
+    justify-content: center;
+}
+#wie, #wat, #skills, #karakter {
+    width: 305px;
+    text-align: center;
+    margin-top: 10%;
+}
+#wie {
+    grid-area: wie;
+}
+#wat {
+    grid-area: wat;
+}
+#skills {
+    grid-area: skills;
+}
+
+#pfp {
+    grid-area: pfp;
+    width: 305px;
+    text-align: center;
+    margin: 5%;
+}
+#pfp > img {
+    border-radius: 20%;
+}
+

@@ -41,7 +41,7 @@ function createresult() {
     let max = 0;
     for (let i = 0; i < partijen.length; i++) {
 
-        for( let n = 0; n < partijen.length; n++)
+        for (let n = 0; n < partijen.length; n++)
 
         if (partijen[partijen[i]] > max){
 
